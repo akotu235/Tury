@@ -187,6 +187,6 @@ Eksperymenty pokazały, że wykorzystanie `BlockingQueue` upraszcza implementacj
 
 2. **Repozytorium kodu źródłowego** – Program `Tury`. Dostępne online: <https://github.com/akotu235/Tury>
 
-3. **Wersja online sprawozdania** – Bieżąca wersja dokumentu. Dostępne online: <https://github.com/akotu235/Tury/report/report.md>
+3. **Wersja online sprawozdania** – Bieżąca wersja dokumentu. Dostępne online: <https://github.com/akotu235/Tury/blob/master/report/report.md>
 
 
